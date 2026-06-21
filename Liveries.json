@@ -25,3 +25,28 @@
                 "Texture"
             ]
         },
+        "24": {
+            "name": "Airbus A350",
+            "liveries": [
+              {
+                "name": "Standard livery",
+                "texture": [
+                    "https://www.geo-fs.com/models/aircraft/premium/a350/specular.jpg",
+                    "https://i.ibb.co/4RC8CPk0/Poonam-airlines-a350-900.png"
+                 ],
+                 "credits": "𝑵𝒊𝒄𝒌𝒚"
+                },
+                {
+                "name": "Special livery",
+                "texture": [
+                    "https://www.geo-fs.com/models/aircraft/premium/a350/specular.jpg",
+                    "https://i.ibb.co/N6tJm0Zp/Poonam-airlines-a350-900-Indian-Cherry-blossom-livery.png"
+                 ],
+                 "credits": "AirplanesAviation2361"
+                }
+            ],
+            "labels": [
+                "Specular Shader",
+                "Texture"
+            ]
+        },
